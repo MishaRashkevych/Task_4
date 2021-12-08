@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Filter Resource</string>
+    <string name="btnFilter">Apply Filter</string>
+    <string name="param">Enter parameter</string>
+</resources>
