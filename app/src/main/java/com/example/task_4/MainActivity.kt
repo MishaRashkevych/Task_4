@@ -47,7 +47,7 @@ class MainActivity : AppCompatActivity() {
                             result.add(it.title)
                     }
                     count.text = "Results:${result.count()}"
-                    resultView.text = result.joinToString("\nResult: ", "Result: ")
+                    resultView.text = result.joinToString("\nResult: ", "Result: ","",3)
                 }
             }
         }
